@@ -7,6 +7,7 @@ bidmachine.io, 84999, DIRECT
 #Copy Admob's app-ads.txt entry from your Admob dashboard
 #Notsy
 google.com, pub-3627235684801522, DIRECT, f08c47fec0942fa0
+applovin.com, 885095258d741476e664b37bce17a4d7, DIRECT
 
 
 google.com, pub-4272971530084173, RESELLER, f08c47fec0942fa0
