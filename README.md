@@ -1,5 +1,5 @@
 
- ## ** Privacy Policy ** ##
+ ### Privacy Policy 
 
 This SERVICE is provided by International-ads at no cost and is intended for use as is and This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
