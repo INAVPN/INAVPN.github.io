@@ -16,8 +16,11 @@ The app does use third party services that may collect information used to ident
 Link to privacy policy of third party service providers used by the app
 
 [Google Play Services]()
+
 [AdMob](https://www.blog.google/products/admob/)
+
 [Google Analytics for Firebase](https://firebase.google.com/community)
+
 [Firebase Crashlytics]()
 [Facebook]()
 [Appodeal]()
