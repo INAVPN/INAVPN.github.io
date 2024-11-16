@@ -454,3 +454,8 @@ lijit.com, 500520, RESELLER, fafdf38b16bf6b2b
 Added.tv, 3d20ca0f, RESELLER
 zmaticoo.com, 5135082, RESELLER
 zmaticoo.com, 113149, RESELLER
+
+
+
+# Pubmatic
+pubmatic.com, 159856, DIRECT, 5d62403b186f2ace
